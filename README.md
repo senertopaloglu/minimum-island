@@ -7,6 +7,7 @@ Write a function, minimum_island, that takes in a grid containing Ws and Ls. W r
 You may assume that the grid contains at least one island.
 
 ## Executing test file
+Before starting, please ensure python is added to PATH and unittest module is installed using command ```pip install unittest```.
 To run test file, please pull repo and navigate to directory via terminal/command prompt and enter following command to start testing:
 ```
 python test.py
